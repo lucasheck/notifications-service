@@ -12,26 +12,17 @@ This project was created for training and improve development skills only.
 
 ##
 
-Type npm run start:dev
+Type npm run start:dev (for run the application)
+Type npm run test:watch (for check the tests)
 
 ##
 
 Technologies used:
 
-- NodeJS
+- NodeJS (Nest Framework)
 - Typescript
 - Prisma Database
-
-##
-
-DONE:
-
-- Creating the database
-- Creating the notifications table
-- Creating the post and get request
-
-TO DO:
-
-- A lot
+- Jest
+- In Memory Database
 
 ##
